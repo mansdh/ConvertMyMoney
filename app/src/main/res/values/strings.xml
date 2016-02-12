@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Convert my money app</string>
+    <string name="title_activity_main2">Currency</string>
+    <string-array name="money_array">
+        <item>USD</item>
+        <item>MXN</item>
+        <item>EUR</item>
+    </string-array>
+
+
+
+</resources>
